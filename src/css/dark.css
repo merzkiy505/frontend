@@ -24,6 +24,7 @@
     --text-text-on-color: #ffffff; /* Text on interactive colors; Text on button colors */
     --text-text-on-color-disabled: #6f6f6f; /* Disabled color for --text-text-on-color */
     --text-text-disabled: #525252;
+    --text-secondary: #ffffff;
 
     /* Link */
     --link-link-primary: #78a9ff;
